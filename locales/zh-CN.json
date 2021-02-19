@@ -161,6 +161,7 @@
   "Calculation Failed": "计算失败",
   "Routing through these tokens resulted in the best price for your trade.": "通过该路径进行兑换，您将得到最有利的兑换价格。",
   "cancel": "取消",
+  "confirm": "确定",
   "Loading": "加载中",
   "Joined": "已加入的资金池未显示?",
   "Import": "点击导入",
@@ -180,5 +181,12 @@
   "RemoveQuestion": "您提取的资金池代币将被销毁并根据当前的转换比例转换成相应数量的基础代币。累计的手续费收益包含在您获得的基础代币中。",
   "ImportQuestion": "使用该功能手动导入页面上没有自动显示的资金池。",
   "AddQuestion": "当您给资金池添加流动性后，您将获得相应数量的资金池代币。这些代币将按照占资金池的份额自动获取手续费收益，而且它们可以随时提取兑现。",
-  "Estimated price": "估计价格"
+  "Estimated price": "估计价格",
+  "Burned Percentage": "销毁比例",
+  "TipModal1": "DiDi钱包暂不支持",
+  "TipModal2": "，如果您想继续兑换，请点击确定按钮，DiDi将为您自动上币",
+  "TipModal3": "，否则请点击取消按钮。",
+  "TipModal4": "上币成功",
+  "TipModal5": "上币失败",
+  "TipModal6": "请确认是否需要自动上币"
 }

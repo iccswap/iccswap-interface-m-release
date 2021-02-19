@@ -107,7 +107,7 @@
   "Minimum received": "Minimum received",
   "Maximum sold": "Maximum sold",
   "Price Impact": "Price Impact",
-  "Liquidity Provider Fee": "Liquidity Provider Fee",
+  "Liquidity Provider Fee": "Fee",
   "A portion of each trade (0.30%) goes to liquidity providers as a protocol incentive.": "A portion of each trade (0.30%) goes to liquidity providers as a protocol incentive.",
   "The difference between the market price and estimated price due to trade size.": "The difference between the market price and estimated price due to trade size.",
   "The difference between the market price and your price due to trade size.": "The difference between the market price and your price due to trade size.",
@@ -177,6 +177,7 @@
   "Calculation Failed": "Calculation Failed",
   "Routing through these tokens resulted in the best price for your trade.": "Routing through these tokens resulted in the best price for your trade.",
   "cancel": "Cancel",
+  "confirm": "Confirm",
   "Loading": "Loading",
   "Joined": "No pool found?",
   "Import": "Import it.",
@@ -196,5 +197,12 @@
   "RemoveQuestion": "Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive.",
   "ImportQuestion": "Use this tool to find pairs that don't automatically appear in the interface.",
   "AddQuestion": "When you add liquidity, you are given pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time.",
-  "Estimated price": "Estimated price"
+  "Estimated price": "Estimated price",
+  "Burned Percentage": "Burned Percentage",
+  "TipModal1": "DiDi doesn’t support",
+  "TipModal2": "currently. If you still want to continue the swap, please press the Confirm button and we will automatically list",
+  "TipModal3": "on DiDi; otherwise, please press the Cancel button.",
+  "TipModal4": "was listed successfully",
+  "TipModal5": "failed to be listed",
+  "TipModal6": "Please Confirm"
 }
